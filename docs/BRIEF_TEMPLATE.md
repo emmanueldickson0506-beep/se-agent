@@ -4,7 +4,7 @@
 > Replace every <...>. Delete these quote lines. Copy `examples/water-tracker.md` for a worked example.
 
 ## What we want
-<2–3 sentences: what the app does and for whom. One main problem, not five.>
+CampusConnect UNT is a web application designed to help University of North Texas (UNT) students discover and register for events organized by Registered Student Organizations (RSOs). The application provides a centralized platform where student organization leaders can publish events, manage registrations, and track student attendance, improving campus engagement.
 
 ## Users
 <Who uses it, on what device, how often. Anyone with special needs (accessibility)?>
