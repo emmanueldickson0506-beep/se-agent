@@ -1,8 +1,5 @@
 # Project Brief: CampusConnect UNT <App name>
 
-> This file is what se-agent reads. Keep it under about 4,000 characters (~700 words).
-> Replace every <...>. Delete these quote lines. Copy `examples/water-tracker.md` for a worked example.
-
 ## What we want
 CampusConnect UNT is a web application designed to help University of North Texas (UNT) students discover and register for events organized by Registered Student Organizations (RSOs). The application provides a centralized platform where student organization leaders can publish events, manage registrations, and track student attendance, improving campus engagement.
 
